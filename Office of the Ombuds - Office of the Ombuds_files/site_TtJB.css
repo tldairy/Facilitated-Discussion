@@ -1,0 +1,38 @@
+main section#three-pic-items.white-section{
+	padding-bottom: 0rem;
+}
+main section#three-pic-items.white-section .columns{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 1rem;
+}
+.card {
+	margin-bottom: 0rem;
+	border: none;
+	border-radius: 0;
+	background: #fefefe;
+	box-shadow: none;
+	overflow: hidden;
+	color: #0a0a0a;
+}
+main .card .image-box {
+	width: 100%;
+	max-height: 60%;
+	overflow: hidden;
+	display: block;
+	clear: both;
+	position: relative;
+	padding-top: 60%;
+}
+.picture-cards h3::after {
+	text-decoration: none;
+	font-family: FontAwesome;
+	color: #97D700;
+	content: "\f061";
+	vertical-align: top;
+	padding-left: 6px;
+	display: inline-block;
+	text-decoration: none;
+}
+p a.button {
+	text-decoration: none;
+}
